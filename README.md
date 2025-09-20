@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 >👋 Halo push pratikumnya disini</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="90" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120" />
+</p>
 
-<!--
-**Tensoraki/Tensoraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+☕ Asisten pemrograman Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 Motto:  
+`try { life(); } catch(Exception e) { retry(); }`
